@@ -1,0 +1,30 @@
+<div style="margin-right:18%;">
+		<br>
+		<div>
+		<table style="width:100%; margin-left:5%;">
+			<th><b>January 2013-Present</b></th>
+			<th><b>The Olive Garden</b></th>
+			<th style="text-align:right;"><b>Pittsburgh, PA</b></th>
+			<tr style="text-align:left;"><td><i>Server</i></td></tr>
+		</table>
+		<ul class="resumelist">
+			<li>Developed excellent interpersonal skills, dealing with many different kinds of people everyday</li> 
+			<li>Honed the ability to effectively multi-task, while still maintaining attention to detail</li>
+			<li>Find solutions to problems, ensuring the guest leaves satisfied</li>
+		</ul>
+		</div>
+		
+		<div style="margin-top:3.5%;">
+		<table style="width:100%; margin-left:5%;">
+			<th><b>April 2011-January 2013</b></th>
+			<th><b>University of Pittsburgh</b></th>
+			<th style="text-align:right;"><b>Pittsburgh, PA</b></th>
+			<tr style="text-align:left;"><td><i>Research Assistant</i></td></tr>
+		</table>
+		<ul class="resumelist">
+			<li>Research pertained to subcelluar events occuring at the neuromuscular junction</li> 
+			<li>Was the only undergraduate who worked on this research project</li>
+			<li>Maintained laboratory and animal facilites</li>
+		</ul>
+		</div>
+</div>

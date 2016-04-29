@@ -1,0 +1,25 @@
+
+		<br><b class="resumehead" style="text-decoration:underline;">B.S. in Neuroscience</b>
+		<b><i class="resumehead" >Minor in Chemistry</i></b>		
+		<div style="line-height:140%">
+			<ul class="resumelist">
+				<li>Finished Program: December 2014</li>
+				<li>GPA: 3.967</li>	
+			</ul>
+		</div>
+
+		<div style="padding-top:1.8%;">
+		<i class="resumehead" style="text-decoration:underline;">Experience</i>
+		<div>
+			<ul class="resumelist">
+				<li>Undergraduate Research
+				<ul style="list-style-type:disc;">
+					<li>In Vitro Calcium Imaging at the Mouse Neuromuscular Junction</li>
+					<li>Fixed Tissue Immunohistochemical Staining and Analysis of the Mouse NMJ using Confocal Microscopy</li>
+				</ul>
+				</li>
+				<li>Experienced in giving scientific/technical presentations to both professional and lay audiences, including a neuroscience presentation given to a grade school class</li>
+				<li>Have written mock research grant and also a mock thesis based on my undergraduate research</li>		
+			</ul>
+		</div>
+		</div>

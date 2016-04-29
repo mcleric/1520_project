@@ -1,0 +1,34 @@
+<br><b class="resumehead" style="text-decoration:underline;">B.S. in Computer Science</b>
+		<div style="">
+			<ul class="resumelist">
+				<li>Expected Graduation Date: December 2016</li>
+				<li>GPA: 3.803</li>
+				<li>Relevant Coursework:
+				<ul style="list-style-type:disc; line-height:140%;">
+					<li>Data Structures</li>
+					<li>Intro to Systems Software</li>
+					<li>Algorithm Implementation</li>
+					<li>Intro to Operating Systems</li>
+					<li>Formal Methods in Computer Science</li>
+				</ul>
+				</li>
+			</ul>
+		</div>
+		<i class="resumehead" style="text-decoration:underline; line-height:100%;">Experience</i>
+		
+		<div style="">
+			<ul class="resumelist">
+				<li>Programming Languages:
+				<ul style="list-style-type:disc;">
+					<li>Java</li>
+					<li>C</li>
+					<li>Assembly (MIPS and some x86)</li>
+				</ul>
+				</li>
+				<li>Have written various implementations of data structures in Java: e.g. Hash tables, Heaps, Undirected Graph, Trie</li>
+				<li>Built a "jrMIPS" processor in Logisim, which was able to handle simple assembly programs</li>
+				<li>Have written a basic graphics library using Linux system calls</li>
+				<li>Have written my own shell implementation in C</li>
+			</ul>
+		</div>
+		

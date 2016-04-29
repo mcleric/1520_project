@@ -1,0 +1,28 @@
+What did you change/enhance from part one?
+I used ajax to load the individual sections of my resume without a hard page refresh.
+I used json to transmit data (from form submission) from php to javascript
+I changed the layout of my site so that the first page (my about me section) loads first but is technically at the bottom of the site
+I used a js api called shuffleLetters to animate my bio section upon initial page load
+I added a animation which is activated when you clear the contact form (clear button also added)
+I also added a feature which changes the colors of the letters that the menu section is in
+	-i realized that the color changing text was very cheesy, but didnt want to throw out all of the work.
+	so what I did was added a window prompt that asks the user if they would like the "cheesy color changing" to be displayed or not
+	There was a lot of logic that went into making this work correctly (including the use of sessionStorage)
+finally, I did some minor layout changes to the site to make it look less thrown together 
+	(specfically the resume section and the contact section)
+
+If there were a third part to the project, my main focus would be the addition of a google maps api.  I would have liked to somehow locate
+all of the users who submitted contact requests (possibly by IP) and keep track of them all on the map.  Something else I would have liked 
+to do is add the raptorize animation to my contact page, and have the raptor sweeping by clear the form.  
+
+What did you learn between part 1 and part 2?
+My understanding of CSS definitely improved.  I struggled to even get the format of my pages in a somewhat presentable position.  
+A lot of the adjustments I made where of the "trial and error" nature.  In the second part however, the changes I made to my css were
+more deliberate (because I understood much better what I was doing.  Another thing I learned is how awesome JavaScript is!  When I only
+had php, html, and css at my disposal the project was somewhat daunting, but once I was able to use JS, my ideas were much easier to implement.
+
+I really liked working on this project! The aspect I enjoyed most was doing most of the coding myself.  Other than the scrolling aspect of 
+the framework I used, everything else on the site I coded myself (I striped all of the styling an what not from the framework).  I did this because
+I thought I would learn more from understanding how the framework worked, rather than just working off of it.  This did however, affect the overall
+asthetic feel of my website.  If I could do it again (which I probably will), now that I have learned how to put together a website the "hard way",
+I think I would better utilize the template that a frontend framework actually offers you (to make my site look more professional).  
